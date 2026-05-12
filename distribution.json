@@ -14,7 +14,9 @@
       "icon": "https://imgur.com/a/Ahdoj5t",
       "version": "1.0.0",
       "address": "play.losthorizon.fr",
-      "minecraftVersion": "1.19.4",
+      "minecraftVersion": "1.20.1",
+"modloader": "fabric",
+"modloaderVersion": "0.15.11"
       "discord": {
         "shortId": "1.19.4 Demo",
         "largeImageKey": "https://raw.githubusercontent.com/dscalzi/HeliosLauncher/master/build/icon.png",
